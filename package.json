@@ -1,0 +1,24 @@
+{
+  "name": "marvel-comic-searcher",
+  "version": "1.0.0",
+  "description": "Simple website that allows you to search for marvel comics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saundis/marvel-comic-searcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saundis/marvel-comic-searcher/issues"
+  },
+  "homepage": "https://github.com/saundis/marvel-comic-searcher#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
